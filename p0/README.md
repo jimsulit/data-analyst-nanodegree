@@ -5,4 +5,4 @@ This project will introduce you to the key steps of the data analysis process. Y
 * Use basic Python code to clean a data set for analysis
 * Run code to create visualizations from the wrangled data
 * Analyze trends shown in the visualiztions and report your conclusions
-* Determine if this program is a good fit for your time and talents
+* Determine if this program is a good fit for your time and talents.
